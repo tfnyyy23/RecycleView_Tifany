@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecycleView_Tifany</string>
+    <string name="profile_name">Nama Anggota</string>
+    <string name="description">Deskripsi</string>
+</resources>
